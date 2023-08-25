@@ -2,7 +2,7 @@
 
 ## Motivation
 
-Our topic this week is "Watermarking and Steganography." Before we get into this, let us imagine what if we had a Facebook or Instagram-like image-sharing application. It allows us to write comments only visible to a specific set of friends. How about a photo album consisting of multiple copies of usual images, hiding some other images only visible over the specific applications to a specific set of people? We are talking about "Steganogtaphy". It is an art/science of writing information/data on images such taht the output images remain visibly the same. </br>
+Our topic this week is "Watermarking and Steganography." Before we get into this, let us imagine what if we had a Facebook or Instagram-like image-sharing application. It allows us to write comments only visible to a specific set of friends. How about a photo album consisting of multiple copies of usual images, hiding some other images only visible over the specific applications to a specific set of people? We are talking about "Steganogtaphy". It is an art/science of writing information/data on images such that the output images remain visibly the same. </br>
 </br>
 Some of you might relate this to watermarking. We will learn more about it in the coming weeks.
 
