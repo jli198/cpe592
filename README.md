@@ -9,9 +9,9 @@ Fall 2023 </br>
 Instructor: Vidya Sagar </br>
 [Canvas Course Address](https://sit.instructure.com/courses/67840) </br>
 Course Schedule: Course material will be updated weekly </br>
-[Contact Info](vsagar@stevens.edu) </br>
-Virtual Office Hours: Thursday 10am - 12pm
-Virtual session URL:
+[Contact Info](mailto:vsagar@stevens.edu) </br>
+Virtual Office Hours: Thursday 10am - 12pm </br>
+Virtual session URL: </br>
 Prerequisites: Probability, Signal Processing and Statistics
 
 ## COURSE DESCRIPTION
@@ -39,7 +39,7 @@ This course is organized in three broader yet interrlated sections:
 We will have one week for literature review and discussion upon completion of each of these sections. </br>
 There will be one Midterm examination and one final Project. </br>
 Assignments will have some coding tasks. Please feel free to code in any common programming language (C/C++/JAVA/Matlab/JavaScript). This is not a computer language course; therefore, coding assignments will be graded mostly of algorithm and methodologies. </br>
-Please reach out for any question and query you may have. I am available over [email](vsagar@stevens.edu) and Canvas.
+Please reach out for any question and query you may have. I am available over [email](mailto:vsagar@stevens.edu) and Canvas.
 
 ## TENTATIVE COURSE SCHEDULE
 
