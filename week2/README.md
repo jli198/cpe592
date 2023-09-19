@@ -5,7 +5,7 @@
 I assume you all are enjoying the first assignment. </br>
 </br>
 Since we know how to write our name underneath encoded layers of the image. </br>
-This is time time to explor it further. Let me start with some questions that I will try to address this week
+This is time time to explore it further. Let me start with some questions that I will try to address this week
 
 1. How much data can we write?
 2. Can we detect such an inscription?
